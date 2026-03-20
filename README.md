@@ -122,7 +122,7 @@ I like building things that feel like a **late-night rainy city view** — calm,
 ## ☔ Aesthetic
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/rM-4qtPOR7QAAAAd/cozy-aesthetic.gif" width="300" />
+  <img src="https://media1.tenor.com/m/h-vRtS8s5roAAAAC/sad-night.gif" width="40%" />
 </p>
 
 ---

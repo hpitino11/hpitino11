@@ -122,15 +122,12 @@ I like building things that feel like a **late-night rainy city view** — calm,
 ## ☔ Aesthetic
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" />
+  <img src="https://media1.tenor.com/m/rM-4qtPOR7QAAAAd/cozy-aesthetic.gif" width="300" />
 </p>
 
 ---
 
-## ✨ Extras
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=hpitino11&color=8892B0&style=flat)
 
 ### 📫 Connect With Me
 <p>

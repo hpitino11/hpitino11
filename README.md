@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/80s-synthwave-aesthetic-l19ipdY2pjK3d8Omtz" width="100%" alt="lofi rainy aesthetic" />
+  <img src="https://media1.tenor.com/m/rM-4qtPOR7QAAAAC/cozy-aesthetic.gif" width="100%" alt="lofi rainy aesthetic" />
 </p>
 
 ---

@@ -20,7 +20,7 @@
 
 ## ☁️ About Me
 
-Hi, I’m **Hanna** — a developer and designer creating digital experiences that feel immersive, thoughtful, and visually alive.
+Hi I’m **Hanna**, a developer and designer creating digital experiences that feel immersive, thoughtful, and visually alive.
 
 I’m especially drawn to:
 - UI/UX-driven interfaces  
@@ -28,7 +28,7 @@ I’m especially drawn to:
 - Clean front-end systems with strong visual identity  
 - Full-stack projects built for real people and real businesses  
 
-I like building things that feel like a **late-night rainy city view** — calm, intentional, and memorable.
+I like building things that feel like a **late-night rainy city view**; calm, intentional, and memorable.
 
 ---
 

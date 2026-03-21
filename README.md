@@ -61,9 +61,7 @@ I like building things that feel like a **late-night rainy city view**; calm, in
 ## 💻 Currently Designing
 
 - 💧 Full-stack website for a water mitigation company  
-- 🌃 Atmospheric 3D portfolio scenes  
-- 🎨 Pixel + anime-inspired UI systems  
-- 🧪 Blending motion, design, and engineering  
+- 👤 Full-stack contact manager website  
 
 ---
 

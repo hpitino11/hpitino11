@@ -108,7 +108,7 @@ I like building things that feel like a **late-night rainy city view**; calm, in
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hpitino11&theme=tokyonight&hide_border=true&ring=9AA6D1&fire=9AA6D1&currStreakLabel=B8C0FF&sideLabels=C9D6F0&dates=8892B0&background=00000000"/>
+  <img src="https://streak-stats.demolab.com/?user=hpitino11&theme=tokyonight&hide_border=true&ring=9AA6D1&fire=9AA6D1&currStreakLabel=B8C0FF&sideLabels=C9D6F0&dates=8892B0&background=00000000"/>
 </p>
 
 ---

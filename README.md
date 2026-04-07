@@ -12,8 +12,8 @@
 <br/>
 ---
 ## ☁️ About Me
-Hi I’m **Hanna**, a developer and designer creating digital experiences that feel immersive, thoughtful, and visually alive.
-I’m especially drawn to:
+Hi I'm **Hanna**, a developer and designer creating digital experiences that feel immersive, thoughtful, and visually alive.
+I'm especially drawn to:
 - Full-stack projects built for real people and real businesses
 - Clean front-end systems with strong visual identity  
 - UI/UX-driven interfaces  
@@ -21,8 +21,8 @@ I’m especially drawn to:
 I like building things that feel like a **late-night rainy city view**; calm, intentional, and memorable.
 ---
 ## 🌙 Design Specialties
-UI/UX • 3D Web Experiences • Frontend Engineering  
-Creative Development • Motion + Interaction • Visual Storytelling
+`UI/UX` • `3D Web Experiences` • `Frontend Engineering`  
+`Creative Development` • `Motion + Interaction` • `Visual Storytelling`
 ---
 ## 🛠️ Tech & Tools
 ### Frontend

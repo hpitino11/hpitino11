@@ -61,8 +61,7 @@ I like building things that feel like a **late-night rainy city view**; calm, in
 
 ## 💻 Currently Designing
 
-- 💧 Full-stack website for a water mitigation company  
-- 👤 Full-stack contact manager website  
+- 📦 Full-stack package tracking website
 
 ---
 
@@ -74,12 +73,18 @@ I like building things that feel like a **late-night rainy city view**; calm, in
 
 ---
 
+### 💧 Water & Fire Mitigation Website
+> Full-stack business website with secure deployment and API integration
+- Laravel (PHP 8.3)
+- Blade
+🔗 https://apexmitigation.com/
+
+---
+
 ### 🏢 Insurance Agency Website
 > Full-stack business website with secure deployment and API integration  
-- Contact API (Node.js)  
 - Rate limiting + validation  
 - DNS + SSL/TLS configuration  
-- Production deployment  
 🔗 https://coastalviewins.com/
 
 ---

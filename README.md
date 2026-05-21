@@ -29,8 +29,6 @@ I’m especially drawn to:
 - Interactive 3D websites with **Three.js + Blender**  
 
 
-I like building things that feel like a **late-night rainy city view**; calm, intentional, and memorable.
-
 ---
 
 ## 🌙 Design Specialties
@@ -139,11 +137,5 @@ I like building things that feel like a **late-night rainy city view**; calm, in
   <a href="https://github.com/hpitino11">GitHub</a> •
   <a href="https://www.linkedin.com/in/hanna-pitino/">LinkedIn</a>
 </p>
-
----
-
-## 🌌 Philosophy
-
-> building interfaces that feel like soft rain, glowing windows, and quiet nights.
 
 ---

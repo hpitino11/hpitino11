@@ -96,14 +96,6 @@ I’m especially drawn to:
 
 </details>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hpitino11&show_icons=true&theme=tokyonight&hide_border=true&title_color=B8C0FF&icon_color=9AA6D1&text_color=C9D6F0&bg_color=00000000"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpitino11&layout=compact&theme=tokyonight&hide_border=true&title_color=B8C0FF&text_color=C9D6F0&bg_color=00000000"/>
-</p>
 
 ---
 

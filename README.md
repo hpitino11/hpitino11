@@ -59,7 +59,7 @@ I’m especially drawn to:
 
 ## 💻 Currently Designing
 
-- 📦 Full-stack package tracking website
+- 🧋 Full-stack Boba Tea Website
 
 ---
 
